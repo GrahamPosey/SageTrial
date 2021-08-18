@@ -13,8 +13,8 @@ public class AccountOperations {
         for (Integer i = 0; i < 1; i++) {
 	    update a;
 	}
-       	
+        system.debug('Test Class update');
         return a;
     }
-    system.debug('Test Class update');
+    
 }
