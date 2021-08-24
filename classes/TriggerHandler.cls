@@ -37,8 +37,6 @@ public virtual class TriggerHandler {
       if(!validateRun()) return;
   
       addToLoopCount();
-
-      system.debug('Bug Fix');
   
       // dispatch to the correct handler method
       if(this.context == TriggerContext.BEFORE_INSERT) {
