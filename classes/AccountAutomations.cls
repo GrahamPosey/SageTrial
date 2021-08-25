@@ -3,6 +3,7 @@ public class AccountAutomations {
         If (a.Description != null) return a;
         Else {
             a.Description = 'Default description';
+            System.debug('added');
             return a;
         }
     }
