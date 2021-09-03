@@ -1,5 +1,5 @@
 public with sharing class withGraham {
     public withGraham() {
-        system.debug('Hello');
+        system.debug('Hello World');
     }
 }
