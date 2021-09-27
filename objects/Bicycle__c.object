@@ -180,9 +180,9 @@
                     <label>Sport</label>
                 </value>
                 <value>
-                    <fullName>Road</fullName>
+                    <fullName>Tandum</fullName>
                     <default>false</default>
-                    <label>Road</label>
+                    <label>Tandum</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
