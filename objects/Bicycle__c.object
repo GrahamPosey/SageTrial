@@ -179,6 +179,11 @@
                     <default>false</default>
                     <label>Sport</label>
                 </value>
+                <value>
+                    <fullName>Road</fullName>
+                    <default>false</default>
+                    <label>Road</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
