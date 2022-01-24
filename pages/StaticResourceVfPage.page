@@ -1,0 +1,6 @@
+<apex:page >
+    <apex:includeScript value="{!$Resource.Test_Static_Resource}"/>
+    <script type="text/javascript">
+    	Test_Static_Resource.msg();
+    </script>
+</apex:page>
